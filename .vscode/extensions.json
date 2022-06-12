@@ -16,6 +16,7 @@
     "in4margaret.compareit",
     "michelemelluso.code-beautifier",
     "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "NathanRidley.autotrim",
     "PKief.material-icon-theme",
